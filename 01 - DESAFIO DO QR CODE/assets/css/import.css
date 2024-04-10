@@ -1,0 +1,10 @@
+/* Importação dos estilos da fonte do projeto */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+/* Declaração da paleta de cores */
+:root {
+  -CorPrimaria: #fff; /* cor branca*/
+  -CorSecundaria: #d6e2f0; /* cor cinza mais claro*/
+  -CorTercearia:  #7b879d; /* cor cinza claro*/
+  -CorQuartuaria: #1f3251; /* cor azul dark*/
+}

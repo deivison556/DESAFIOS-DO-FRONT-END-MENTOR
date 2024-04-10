@@ -1,3 +1,4 @@
+/* Esse arquivo engloba todos os arquivos Css num só arquivo */
 @import '../css/style.css';
 @import '../css/import.css';
 @import '../css/responsivo.css';
